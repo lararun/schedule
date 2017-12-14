@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
 if [ ! -f "/home/artisan" ]; then
 	echo "Artisan Not Fount ..."
 	exit;
